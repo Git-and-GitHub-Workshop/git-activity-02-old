@@ -1,0 +1,1 @@
+# git-activity-02-template
